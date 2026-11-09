@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "appId": "short-uploader",
+  "enabled": true,
+  "minimumVersion": "1.0.0",
+  "message": "사용할 수 있습니다.",
+  "issuedAt": "2026-11-09T10:01:11.084Z",
+  "expiresAt": "2027-11-09T10:01:11.084Z",
+  "revision": 1794218471084,
+  "signature": "tPS2CR7XiAflT9Bchv69iIe6Km7gOO8PTkO4O9/WaACY3+2nw4K91610la9BiPAdkvfn7MppBnBXcOvVSMwiBQ=="
+}
